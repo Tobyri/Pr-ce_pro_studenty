@@ -90,7 +90,7 @@ Zkusíte barevnou variantu stránky, aniž byste sáhli na funkční verzi.
 Pro ty, kdo jsou hotovi dřív. Potřebujete účet na GitHubu.
 
 1. V Source Control klikněte na **Publish Branch**.
-2. VS Code se zeptá na přihlášení k GitHubu — povolte to v prohlížeči.
+2. Pokud nejste přihlášeni ve VS Code github účtem, VS Code se zeptá na přihlášení k GitHubu — povolte to v prohlížeči.
 3. Vyberte **Publish to private repository**.
 4. Udělejte ještě jednu drobnou změnu, commitněte ji a klikněte na **Sync Changes**.
 5. Otevřete si repozitář na githubu.com a najděte svůj poslední commit i se zprávou.
