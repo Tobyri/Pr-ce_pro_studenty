@@ -113,6 +113,6 @@ Odpovězte vlastními slovy, dvě věty na otázku stačí.
 - [ ] Jeden commit vznikl na větvi `barvy` a je sloučený do `main`
 - [ ] Větev `barvy` je smazaná
 - [ ] Stránka se v prohlížeči zobrazí a má pozadí ze souboru `styles.css`
-- [ ] Umíte ukázat porovnání libovolných dvou verzí `index.html`
+- [ ] Umíte v okně porovnání ukázat, co se od posledního commitu změnilo v index.html
 
 Ukažte vyučujícímu historii commitů a odpovědi na kontrolní otázky.
